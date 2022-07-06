@@ -1,0 +1,75 @@
+{
+  "lessons": {
+    "lesson": {
+      "name": {
+        "@lang": "en",
+        "#text": "\"Cookie\""
+      },
+      "description": {
+        "@lang": "en",
+        "#text": "\"Main theory about HTTP cookies\""
+      },
+      "mandatory": {
+        "@lang": "en",
+        "#text": "\"yes\""
+      },
+      "tasks": {
+        "task": {
+          "name": {
+            "@lang": "en",
+            "#text": "\"Few questions about cookie\""
+          },
+          "mandatory": {
+            "@lang": "en",
+            "#text": "\"yes\""
+          },
+          "questions": [
+            {
+              "name": {
+                "@lang": "en",
+                "#text": "\"First question\""
+              },
+              "text": {
+                "@lang": "en",
+                "#text": "\"What is cookie?\""
+              },
+              "answer": {
+                "@lang": "en",
+                "#text": "\"A small piece of data sent by a web server and stored on the user's computer.\""
+              }
+            },
+            {
+              "name": {
+                "@lang": "en",
+                "#text": "\"Second question\""
+              },
+              "text": {
+                "@lang": "en",
+                "#text": "\"What is the main purpose of using cookie?\""
+              },
+              "answer": {
+                "@lang": "en",
+                "#text": "\"User authentication\""
+              }
+            },
+            {
+              "name": {
+                "@lang": "en",
+                "#text": "\"Third question\""
+              },
+              "text": {
+                "@lang": "en",
+                "#text": "\"Should sites ask permission to use user's cookie?\""
+              },
+              "answer": {
+                "@lang": "en",
+                "#text": "\"Yes\""
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+© FreeFormatter.c
